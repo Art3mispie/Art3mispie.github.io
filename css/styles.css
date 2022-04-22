@@ -417,7 +417,9 @@ body {
   top: -30vh;
   height: auto;
   width: 100%;
-  padding: 5vw 30vw;
+  padding: 0 5vw;
+  align-content: center;
+  justify-content: center;
 }
 
 .card {
@@ -431,7 +433,7 @@ body {
   border-radius: 0.5rem;
   background-color: #f5f5f5;
   padding: 2.5rem;
-  display: inline !important;
+  display: inline-flex;
 
   color: #666C7E;
   font-size: 14px;
