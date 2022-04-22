@@ -1,2 +1,2 @@
-# Art3mispie.github.io
+# art3mispie.github.io
 My portfolio
