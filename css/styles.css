@@ -14,7 +14,7 @@ body {
   color: #333;
   font-size: 14px;
   line-height: 1.25rem;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .body {
